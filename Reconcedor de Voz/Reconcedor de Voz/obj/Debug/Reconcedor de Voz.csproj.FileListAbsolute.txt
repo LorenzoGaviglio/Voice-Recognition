@@ -1,0 +1,10 @@
+C:\Users\lgavi\source\repos\Reconcedor de Voz\Reconcedor de Voz\bin\Debug\Reconcedor de Voz.exe.config
+C:\Users\lgavi\source\repos\Reconcedor de Voz\Reconcedor de Voz\bin\Debug\Reconcedor de Voz.exe
+C:\Users\lgavi\source\repos\Reconcedor de Voz\Reconcedor de Voz\bin\Debug\Reconcedor de Voz.pdb
+C:\Users\lgavi\source\repos\Reconcedor de Voz\Reconcedor de Voz\obj\Debug\Reconcedor de Voz.csprojResolveAssemblyReference.cache
+C:\Users\lgavi\source\repos\Reconcedor de Voz\Reconcedor de Voz\obj\Debug\Reconcedor_de_Voz.Form1.resources
+C:\Users\lgavi\source\repos\Reconcedor de Voz\Reconcedor de Voz\obj\Debug\Reconcedor_de_Voz.Properties.Resources.resources
+C:\Users\lgavi\source\repos\Reconcedor de Voz\Reconcedor de Voz\obj\Debug\Reconcedor de Voz.csproj.GenerateResource.cache
+C:\Users\lgavi\source\repos\Reconcedor de Voz\Reconcedor de Voz\obj\Debug\Reconcedor de Voz.csproj.CoreCompileInputs.cache
+C:\Users\lgavi\source\repos\Reconcedor de Voz\Reconcedor de Voz\obj\Debug\Reconcedor de Voz.exe
+C:\Users\lgavi\source\repos\Reconcedor de Voz\Reconcedor de Voz\obj\Debug\Reconcedor de Voz.pdb
